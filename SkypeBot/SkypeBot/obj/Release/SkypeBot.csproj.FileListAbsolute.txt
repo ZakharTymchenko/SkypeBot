@@ -1,0 +1,10 @@
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Release\SkypeBot.exe.config
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Release\SkypeBot.exe
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Release\SkypeBot.pdb
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Release\Interop.SKYPE4COMLib.dll
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.MainForm.resources
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.Properties.Resources.resources
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.csproj.GenerateResource.Cache
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.exe
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.pdb
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Release\SkypeBot.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+c:\users\zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe.config
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Debug\SkypeBot.pdb
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.csprojResolveAssemblyReference.cache
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.MainForm.resources
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.Properties.Resources.resources
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.csproj.GenerateResource.Cache
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.exe
+C:\Users\Zakhar\documents\visual studio 2013\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.pdb
+C:\Users\Zakhar\Documents\GitHub\SkypeBot\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe.config
+C:\Users\Zakhar\Documents\GitHub\SkypeBot\SkypeBot\SkypeBot\obj\Debug\SkypeBot.exe
+C:\Users\Zakhar\Documents\GitHub\SkypeBot\SkypeBot\SkypeBot\obj\Debug\SkypeBot.pdb
