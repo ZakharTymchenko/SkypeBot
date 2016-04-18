@@ -10,7 +10,7 @@ namespace SkypeBot
     public static class SkypeInteraction
     {
         // constants and variables
-        private const string headAdmin = "alexander.sirko1";
+        private const string headAdmin = "example.account"; // hard-coded admin
         private static bool initialized = false;
         
         private static SkypeClass skype = new SkypeClass();
@@ -109,7 +109,7 @@ namespace SkypeBot
 
             foreach (IUser user in usersWaiting)
             {
-                if (!user.IsAuthorized && skype.User.Handle != "replica.of.kzd")
+                if (!user.IsAuthorized) // && skype.User.Handle != "example.account") DEBUG
                     skype.set_UserIsAuthorized(user.Handle, true);
             }
 
